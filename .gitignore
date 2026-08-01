@@ -1,0 +1,21 @@
+# Blender Files
+*.blend1
+*.blend2
+blendcache_*/
+quit.blend
+
+# Substance Painter Files
+*.spp
+*.spp~
+*.autosave
+*.spsm
+
+# 3D Exports
+*.fbx
+*.assbin
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.assbin
